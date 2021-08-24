@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\编译原理\lexanalyzer\lexanalyzer\源.cpp(96): warning C4018: “<”: 有符号/无符号不匹配
+d:\编译原理\lexanalyzer\lexanalyzer\源.cpp(375): warning C4715: “LexAnalyze”: 不是所有的控件路径都返回值
+  LexAnalyzer.vcxproj -> D:\编译原理\LexAnalyzer\Debug\LexAnalyzer.exe
